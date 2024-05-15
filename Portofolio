@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Portofolio Saya</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">Tentang</a></li>
+            <li><a href="#projects">Proyek</a></li>
+            <li><a href="#contact">Kontak</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>Tentang Saya</h2>
+        <p>Tambahkan deskripsi singkat tentang diri Anda di sini.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyek</h2>
+        <p>Tambahkan daftar proyek Anda di sini.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Kontak</h2>
+        <p>Informasi kontak Anda di sini.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Portofolio Saya</p>
+    </footer>
+</body>
+</html>
